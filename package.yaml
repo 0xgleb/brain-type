@@ -24,6 +24,9 @@ dependencies:
 
 library:
   source-dirs: src
+  dependencies:
+  - vector-sized
+  - type-list
 
 executables:
   brain-type-exe:
