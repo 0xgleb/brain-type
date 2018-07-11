@@ -1,0 +1,5 @@
+.stack-work/
+brain-type.cabal
+*~
+README.**
+!README.org
